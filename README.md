@@ -7,7 +7,7 @@ Dot Campus Projects
 - Project 3: Weather Dashboard
 
 ```lua
-Hnn3y.github.io/
+hnn3y.github.io/
 ├── index.html
 ├── peters-story/
 ├── calculator-app/
